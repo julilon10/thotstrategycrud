@@ -62,7 +62,7 @@ _7-El proyecto cuenta con seeder para implementarlos ejecute:_
 php artisan migrate --seed
 ```
 
-![alt text](https://github.com/julilon10/thotstrategycrud/issues/1#issue-433033527)
+![alt text](https://user-images.githubusercontent.com/40440781/56099163-fea4d500-5ece-11e9-9a2d-268870462b0d.PNG)
 
 
 
